@@ -31,7 +31,7 @@ puts item2
 
 class Item
     def initialize(name)
-       @name = name
+        @name = name
     end
     def name
         @name
